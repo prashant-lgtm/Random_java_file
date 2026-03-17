@@ -5,5 +5,6 @@ public class Main{
         int b=5;
         System.out.println(a+b);
         String name = "ram";
+        System.out.println(name);
     }
 }
