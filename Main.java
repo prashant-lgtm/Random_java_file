@@ -8,5 +8,8 @@ public class Main{
         System.out.println(name);
         System.out.println("my first commit in my new branch");
         System.out.println("Second commit in my new branch");
+        int num=69;
+        
+
     }
 }
