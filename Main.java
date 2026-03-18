@@ -7,5 +7,6 @@ public class Main{
         String name = "ram";
         System.out.println(name);
         System.out.println("my first commit in my new branch");
+        System.out.println("Second commit in my new branch");
     }
 }
