@@ -10,6 +10,7 @@ public class Main{
         System.out.println("Second commit in my new branch");
         int num=69;
         newFun();
+        System.out.println("i have made a new feature");
           }
     static void newFun(){
         System.out.println("Making a new feature");
