@@ -9,7 +9,9 @@ public class Main{
         System.out.println("my first commit in my new branch");
         System.out.println("Second commit in my new branch");
         int num=69;
-        
-
+        newFun();
+          }
+    static void newFun(){
+        System.out.println("Making a new feature");
     }
 }
