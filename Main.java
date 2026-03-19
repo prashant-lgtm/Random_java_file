@@ -12,6 +12,7 @@ public class Main{
         newFun();
         System.out.println("i have made a new feature");
         int age=22;
+        String btn= "btn fixed";
           }
     static void newFun(){
         System.out.println("Making a new feature");
